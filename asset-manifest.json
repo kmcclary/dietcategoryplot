@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dietcategoryplot/static/css/main.e6c13ad2.css",
+    "main.js": "/dietcategoryplot/static/js/main.51f059ac.js",
+    "static/js/488.e20b0eb4.chunk.js": "/dietcategoryplot/static/js/488.e20b0eb4.chunk.js",
+    "index.html": "/dietcategoryplot/index.html",
+    "main.e6c13ad2.css.map": "/dietcategoryplot/static/css/main.e6c13ad2.css.map",
+    "main.51f059ac.js.map": "/dietcategoryplot/static/js/main.51f059ac.js.map",
+    "488.e20b0eb4.chunk.js.map": "/dietcategoryplot/static/js/488.e20b0eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.51f059ac.js"
+  ]
+}
